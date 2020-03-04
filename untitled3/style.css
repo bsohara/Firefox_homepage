@@ -22,19 +22,20 @@ header {
     text-align: center;
     font-size: 75px;
 
-    margin-top: 10px;
+    margin-top: 25px;
 }
 
 h4 {
     font-size: 35px;
     font-weight: lighter;
 
+    padding-top: 10px;
     padding-left: 45px;
 }
 
 .favorites {
     margin: 40px;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.55);
 
     border-radius: 15px 15px 15px 15px;
 }
@@ -50,7 +51,7 @@ h4 {
 
     padding: 20px;
 
-    border-radius: 3px 3px 3px 3px;
+    border-radius: 12px 12px 12px 12px;
 }
 
 #icon_press img:hover {
